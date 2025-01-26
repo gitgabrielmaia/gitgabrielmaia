@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, programação e resolução de problemas! 🚀
 
-Atualmente, estou me aprofundando em C# e .NET, mas também tenho experiência com outras linguagens e tecnologias. Meu objetivo é sempre aprender e melhorar minhas habilidades, além de contribuir para projetos interessantes.
+Atualmente, estou me aprofundando em Java,  C# e .NET, js e  Docker, mas também tenho experiência com outras linguagens e tecnologias. Meu objetivo é sempre aprender e melhorar minhas habilidades, além de contribuir para projetos interessantes.
 
 ### 🚀 Linguagens e Tecnologias
 
